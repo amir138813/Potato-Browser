@@ -47,4 +47,4 @@
 - **آیا می‌توانم افزونه اضافه کنم؟**
   - بله، با توسعه ماژول جدید در پوشه `potato/` و افزودن آن به رابط کاربری.
 - **چگونه آن را نصب کنم؟**
-  - با مراجعه به این آدرس https://github.com/amir138813/Potato-Browser/releases و نصب فایل Potato Browser.exe از آن لذت ببرید.
+  - در https://github.com/amir138813/Potato-Browser/releases و نصب فایل Potato Browser.exe از آن لذت ببرید.
