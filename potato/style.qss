@@ -1,0 +1,53 @@
+QMainWindow {{
+    background-color: {POTATO_LIGHT};
+    color: {TEXT_COLOR};
+    font-family: 'Segoe UI', system-ui, sans-serif;
+}}
+
+QToolBar {{
+    background-color: {POTATO_PRIMARY};
+    border: none;
+    padding: 8px 12px;
+    spacing: 4px;
+}}
+
+QWebEngineView {{
+    background-color: {POTATO_LIGHT};
+    border: none;
+}}
+
+QScrollBar:vertical {{
+    border: none;
+    background: {POTATO_LIGHT};
+    width: 12px;
+    border-radius: 6px;
+}}
+
+QScrollBar::handle:vertical {{
+    background: {POTATO_ACCENT};
+    border-radius: 6px;
+    min-height: 20px;
+}}
+
+QScrollBar::handle:vertical:hover {{
+    background: {POTATO_DARK};
+}}
+
+QScrollBar::add-line:vertical,
+QScrollBar::sub-line:vertical {{
+    background: none;
+}}
+
+QProgressBar {{
+    border: none;
+    background-color: {POTATO_LIGHT};
+    border-radius: 2px;
+}}
+QProgressBar::chunk {{
+    background-color: {POTATO_DARK};
+    border-radius: 2px;
+}}
+
+QLabel {{
+    color: {TEXT_COLOR};
+}}

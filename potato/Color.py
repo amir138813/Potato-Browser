@@ -1,0 +1,5 @@
+POTATO_PRIMARY = "#d2b48c"    
+POTATO_DARK = "#a67c52"       
+POTATO_LIGHT = "#f5e9dc"      
+POTATO_ACCENT = "#c19a6b"     
+TEXT_COLOR = "#3e2c1c"
