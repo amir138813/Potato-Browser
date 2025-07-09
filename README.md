@@ -57,7 +57,7 @@
 3. تغییرات را کامیت کنید:
 
    ```bash
-   "git commit -m "Example for changes
+   git commit -m "Example for changes"
    ```
 
 4. به مخزن اصلی پوش کنید:
